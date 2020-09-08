@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db8bd50f5ff95757848201bad5a34fde",
+    "revision": "3ee6c439be71a6e167cedada561c9a7c",
     "url": "/index.html"
   },
   {
-    "revision": "6a8d6ef26e4478d81dd2",
-    "url": "/static/css/main.3ef54b8d.chunk.css"
+    "revision": "5886caff76967ff5ac5e",
+    "url": "/static/css/main.aab6883c.chunk.css"
   },
   {
-    "revision": "90dd2dccb8811fcbbac1",
-    "url": "/static/js/2.22daef87.chunk.js"
+    "revision": "d8bb79c6eb63bb4ab8fa",
+    "url": "/static/js/2.4200b4eb.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.22daef87.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.4200b4eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6a8d6ef26e4478d81dd2",
-    "url": "/static/js/main.74e57354.chunk.js"
+    "revision": "5886caff76967ff5ac5e",
+    "url": "/static/js/main.ec64367a.chunk.js"
   },
   {
     "revision": "03031250b05634549845",
     "url": "/static/js/runtime-main.9227c2ae.js"
+  },
+  {
+    "revision": "4be5f85a607f38b063571dd001713c3a",
+    "url": "/static/media/Logofede.4be5f85a.png"
   },
   {
     "revision": "0f66f2bb7002e9fdc1f6d444c6882f58",
